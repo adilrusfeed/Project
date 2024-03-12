@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1059621501970",
+    "project_id": "fileadder-cbd09",
+    "storage_bucket": "fileadder-cbd09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059621501970:android:3de1c33d26a2cd6559accb",
+        "android_client_info": {
+          "package_name": "com.example.projectuploader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV3YsrrsONj9MMDYbCSdRq8VukMGpdt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
